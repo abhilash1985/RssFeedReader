@@ -1,9 +1,8 @@
-# README
+# RSS Feed Reader
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This web application is used to parse RSS feed URLs using Nokogiri and show the latest articles sorted by date.
 
-Things you may want to cover:
+## Getting Started
 
 * Ruby version  - 2.6.1
 
