@@ -1,0 +1,10 @@
+<div class="container">
+  <% @articles.each do |article| %>
+    <div class="panel panel-default">
+      <div class="panel-body">
+      	<%= link_to article.data_feed.name, article.data_feed %> : 
+        <%= link_to article.title, article, target: :_blank %> - <i> published <%= time_ago_in_words(article.published_at) %> ago.</i>
+      </div>
+    </div>
+  <% end %>
+</div>

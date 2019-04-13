@@ -1,0 +1,6 @@
+<div class="container">
+  <h3> There are <%= link_to "#{@data_feed.articles.count} articles", articles_path %> available for the feed <%= @data_feed.name %></h3>
+  <hr />
+  <%= link_to 'Edit', edit_data_feed_path %>
+  <%= link_to 'Back', data_feeds_path %>
+</div>

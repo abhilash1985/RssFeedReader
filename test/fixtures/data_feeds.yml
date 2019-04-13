@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  id: 1
+  name: All News
+  url: https://www.railwaygazette.com/rss.xml
+  description: All News
+
+two:
+  id: 2
+  name: RSS Passenger
+  url: https://www.railwaygazette.com/rss/rss-high-speed.html
+  description: RSS Passenger

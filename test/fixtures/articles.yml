@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: Hupac looks to automate route planning
+  published_at: 2019-04-13 17:10:28
+  content: Intermodal freight operator Hupac is to automate its route planning and traffic management processes using sensor data and analytics provided by ETH Zürich spin-off c...
+  url: http://www.railwaygazette.com/index.php?id=218&tx_ttnews[tt_news]=39146
+  author: MyString
+  data_feed_id: 1
+
+two:
+  title: Stadler Rail lists on SIX Swiss Exchange
+  published_at: 2019-04-13 17:10:28
+  content: Trading of Stadler Rail shares on the SIX Swiss Exchange began on April 12. The offer price for the initial public offering was set at SFr38 per share, in the upper half of the..
+  url: https://www.railwaygazette.com/news/business/single-view/view/stadler-rail-lists-on-six-swiss-exchange.html
+  author: MyString
+  data_feed_id: 1
