@@ -7,28 +7,38 @@ Things you may want to cover:
 
 * Ruby version  - 2.6.1
 
-* System dependencies - Rails - 5.2.3
+* Rails version  - 5.2.3
+
+* System dependencies 
 
 * Configuration
 
 * Database creation
 
-rails db:create
-rails db:migrate
+  ```
+  rails db:create
+  rails db:migrate
+  ```
 
 * Database initialization
 
-rails db:seed
+  ```
+  rails db:seed
+  ```
 
 * How to run the test suite
 
-rails test:controllers
-rails test:models
-rails test:system
+  ```
+  rails test:controllers
+  rails test:models
+  rails test:system
+  ```
 
 * TODO
 
-Test needs to be updated
+  ```
+  Test needs to be updated
+  ```
 
 * Services (job queues, cache servers, search engines, etc.)
 
